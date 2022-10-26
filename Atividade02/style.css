@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    /*background-color: #FFFAFA;*/
+    background-color: 	#FFFAFA;
+    color: rgba(0, 0, 0, 1);
+  }
+
+  h1 {
+    text-align: center;
+    color:#363636;
+  }
+
+  h2 {
+    color:#363636;
+  }
+
+  h3 {
+    color:#363636;
+  }
+
+div{
+    color:#4F4F4F;
+}
